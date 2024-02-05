@@ -32,7 +32,7 @@
             <form class="row g-3 justify-content-end">
                 <div class="col-auto">
                     <label for="staticStartDate">
-                        Date début
+                        Date début Merci
                     </label>
                     <input type="date" formcontrolname="startDate" id="staticEmail2" class="form-control ng-untouched ng-pristine ng-valid">
                 </div>
